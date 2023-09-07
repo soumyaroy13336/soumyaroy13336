@@ -1,5 +1,5 @@
 - 👋 Hi, I’m Soumen Jana
-- 👀 I’m interested in "Web development" " AI/ML " "Full Stack"
+- 👀 I’m interested in "Web development" " AI/ML[Deep Learning] " "Full Stack"
 - 🌱 I’m currently Persuing MCA Grads.
 - 💞️ I’m looking to collaborate on ...
 - 📫 How to reach me ... 
